@@ -1,6 +1,6 @@
 {
   "name": "ituner",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "a client library for searching songs on the iTunes store and retrieve the nearest match",
   "repository": {
     "type": "git",
