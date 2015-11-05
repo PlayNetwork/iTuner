@@ -1,16 +1,22 @@
-# 0.1.3 - 2014.12.03
+# v0.1.4 - 2015.11.05
 
-* Updating sanitize internal function to filter less - fixes defect where occaisionally title and artist was blank
+* Updated error handling on response
+* Updated dependencies
+* Augmented sanitize filter to remove `/` characters
 
-# 0.1.2 - 2014.10.22
+# v0.1.3 - 2014.12.03
+
+* Updated sanitization filter - fixes defect where title and artist were blanked
+
+# v0.1.2 - 2014.10.22
 
 * Updated dependencies
 * Add repository for package.json file
 
-# 0.1.1 - 2014.05.22
+# v0.1.1 - 2014.05.22
 
 * Ensure request timeout is obeyed
 
-# 0.1.0 - 2014.05.22
+# v0.1.0 - 2014.05.22
 
 * Initial release
